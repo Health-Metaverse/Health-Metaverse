@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Project Health Metaverse](https://health-metaverse.github.io/images/metaverse-virtual-reality.png)
-
 <!--
 **Health-Metaverse/Health-Metaverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
